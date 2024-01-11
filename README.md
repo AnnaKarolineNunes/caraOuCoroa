@@ -3,6 +3,13 @@
 ## Descrição
 Neste projeto, ao criar o app Cara ou Coroa, foi possivel praticar a passagem de dados entre activities bem como a criação de layouts responsivos com arquivos XML. 
 
+## Capturas de Tela
+
+- Resultado final :
+  
+![image](https://github.com/AnnaKarolineNunes/caraOuCoroa/assets/101477642/057226d7-5429-468e-8270-9b1daba6e933)
+![image](https://github.com/AnnaKarolineNunes/caraOuCoroa/assets/101477642/8a1d3470-cbed-4911-96db-cb42096f8d9b)
+
 ## Processo de desenvolvimento
 
 - Passo 1 : Após criar o projeto no android studio, iniciamos a construção do layout da tela principal
@@ -125,13 +132,6 @@ Neste projeto, ao criar o app Cara ou Coroa, foi possivel praticar a passagem de
                 finish();
             }
         });
-    
-## Capturas de Tela
-
-- Resultado final :
-  
-![image](https://github.com/AnnaKarolineNunes/caraOuCoroa/assets/101477642/057226d7-5429-468e-8270-9b1daba6e933)
-![image](https://github.com/AnnaKarolineNunes/caraOuCoroa/assets/101477642/8a1d3470-cbed-4911-96db-cb42096f8d9b)
     
 
 
