@@ -7,25 +7,26 @@
     tools:context=".ResultadoActivity">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imageResultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageButton2"
+        app:layout_constraintBottom_toTopOf="@+id/buttonVoltar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_chainStyle="packed"
-        app:srcCompat="@drawable/moeda_cara"
-        tools:layout_editor_absoluteX="53dp" />
+        app:srcCompat="@drawable/moeda_cara" />
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/buttonVoltar"
         android:layout_width="252dp"
         android:layout_height="69dp"
         android:layout_marginTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/imageResultado"
         app:srcCompat="@drawable/botao_voltar" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
